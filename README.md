@@ -2,7 +2,8 @@
 
 [1/ IBM Data Science](https://github.com/vanthachvn80/data_science/tree/main/IBM%20Data%20Science)
 
-Skills:
+| Skills | Skills |
+|----------|------------|
 
 | Data Science | Python Programming | Jupyter notebooks|
 | SQL  | Data Mining | Github|
