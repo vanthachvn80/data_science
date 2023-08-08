@@ -1,29 +1,13 @@
 # Data_science
 
 [1/ IBM Data Science](https://github.com/vanthachvn80/data_science/tree/main/IBM%20Data%20Science)
+
 Skills:
 
-* Data Science
-
-* Python Programming
-
-* SQL
-
-* Data Mining
-
-* Machine Learning
-
-* Deep Learning
-
-* Jupyter notebooks
-
-* Github
-
-* Big Data
-
-* Methodology
-
-* Rstudio
+| Data Science | Python Programming | Jupyter notebooks|
+| SQL  | Data Mining | Github|
+| Machine Learning | Deep Learning | Big Data|
+|Methodology| Rstudio |…|
 
 [2/ Deep learning](https://github.com/vanthachvn80/data_science/tree/main/Deep%20Learning%20(DeepLearning_AI))
 
