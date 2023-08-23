@@ -1,9 +1,7 @@
 # Data_science
 
+1/ [III.4 Machine Learning_ Theory and Hands-on Practice with Python Specialization](https://github.com/vanthachvn80/data_science/tree/main/III.4%20Machine%20Learning_%20Theory%20and%20Hands-on%20Practice%20with%20Python%20Specialization)
 
-
-
-1/ [III.4 III.4 Machine Learning_ Theory and Hands-on Practice with Python Specialization](https://github.com/vanthachvn80/data_science/tree/main/III.4%20Machine%20Learning_%20Theory%20and%20Hands-on%20Practice%20with%20Python%20Specialization)
 2/ [IBM Data Science](https://github.com/vanthachvn80/data_science/tree/main/IBM%20Data%20Science)
 
 
