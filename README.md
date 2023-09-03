@@ -4,6 +4,10 @@
 
 2/ [IBM Data Science](https://github.com/vanthachvn80/data_science/tree/main/IBM%20Data%20Science)
 
+![IBM Data SCIENCE](https://github.com/vanthachvn80/data_science/blob/main/IBM%20Data%20Science/IBM%20Data%20Science%20badge.png)
+
+Credly [URL](https://www.credly.com/earner/earned/badge/d4214a6a-0cc9-4590-bc67-a38fb27a9922) 
+
 
 3/ [Deep learning](https://github.com/vanthachvn80/data_science/tree/main/Deep%20Learning%20(DeepLearning_AI))
 
