@@ -11,10 +11,12 @@ Credly [URL](https://www.credly.com/earner/earned/badge/d4214a6a-0cc9-4590-bc67-
 
 3/ [Deep learning](https://github.com/vanthachvn80/data_science/tree/main/Deep%20Learning%20(DeepLearning_AI))-([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6NSHLMXHWPA7))
 
+![Deep Learning certificate](https://github.com/vanthachvn80/data_science/blob/main/Deep%20Learning%20(DeepLearning_AI)/deep_learning_cert.png)
+
 
 4/ [DeepLearning.AI TensorFlow Developer](https://github.com/vanthachvn80/data_science/tree/main/TensorFlow%20Developer)-([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9LG4L2PK9HK))
 
-
+![DeepLearning.AI TensorFlow Developer certificate](https://github.com/vanthachvn80/data_science/blob/main/TensorFlow%20Developer/TensorFlow_developer_cert.png)
 
 5/ [TensorFlow: Data & Deployment](https://github.com/vanthachvn80/data_science/tree/main/TensorFlow_Data%20and%20Deployment)-([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YE7UF8YQAB8G))
 
