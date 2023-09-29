@@ -1,5 +1,7 @@
 # Data_science
 
+9/ [2023 - ML_AI_Data Landscape](https://github.com/vanthachvn80/data_science/blob/main/FirstMark%20_%202023%20MAD%20(ML_AI_Data)%20Landscape.pdf )
+
 8/ [AI for Good Specialization](https://github.com/vanthachvn80/data_science/tree/main/AI%20for%20Good%20Specialization)
 
 7/ [III.4 Machine Learning_ Theory and Hands-on Practice with Python Specialization](https://github.com/vanthachvn80/data_science/tree/main/III.4%20Machine%20Learning_%20Theory%20and%20Hands-on%20Practice%20with%20Python%20Specialization)
