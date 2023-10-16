@@ -1,6 +1,6 @@
 # Data_science
 
-10/ Kaggle [report](https://github.com/vanthachvn80/data_science/blob/main/2023_Kaggle_AI_Report.pdf) 
+10/ Kaggle AI [report 2023](https://github.com/vanthachvn80/data_science/blob/main/2023_Kaggle_AI_Report.pdf), link [URL](https://storage.googleapis.com/kaggle-media/reports/2023_Kaggle_AI_Report.pdf)
 
 9/ [2023 - ML_AI_Data Landscape](https://github.com/vanthachvn80/data_science/blob/main/FirstMark%20_%202023%20MAD%20(ML_AI_Data)%20Landscape.pdf ): the definitive market map of companies and products in machine learning, artificial intelligence and data, compiled by FirstMark. 
 
