@@ -1,5 +1,7 @@
 # Data_science
 
+10/ Kaggle [report](https://github.com/vanthachvn80/data_science/blob/main/2023_Kaggle_AI_Report.pdf) 
+
 9/ [2023 - ML_AI_Data Landscape](https://github.com/vanthachvn80/data_science/blob/main/FirstMark%20_%202023%20MAD%20(ML_AI_Data)%20Landscape.pdf ): the definitive market map of companies and products in machine learning, artificial intelligence and data, compiled by FirstMark. 
 
 8/ [AI for Good Specialization](https://github.com/vanthachvn80/data_science/tree/main/AI%20for%20Good%20Specialization): AI and Public Health, AI and Climate Change, AI and Disaster Management.	
